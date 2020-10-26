@@ -1,0 +1,130 @@
+/*BIG TABLET TO 1200PX (WIDTH SMALLER THAN THE 1140 PX ROWS) */
+@media only screen and (max-width:1200px){
+    
+}
+
+
+/*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
+@media only screen and (max-width:481px){
+.div_Paragraph_First{
+padding: 60px 5px 5px 5px;
+    }
+.btn-proofId{
+padding: 5px 15px 15px 5px;
+height: 25px;
+margin:5px 35px 5px 5px;
+display:flex;
+width: 70%;
+}
+.btn-proofId text{
+text-align: center;
+    }
+.div_Paragraph_Second{
+padding: 60px 5px 5px 5px;
+    }
+.btn-SSN{padding: 5px 15px 15px 5px;
+height: 25px;
+margin:5px 35px 5px 5px;
+display:flex;
+width: 70%;}
+
+.btn-INCOME{
+margin:5px 35px 0px 5px;
+width: 70%;
+    }
+    .p_commnets{
+        margin-bottom: 20px;
+      }
+.p_commnets text{
+display: block;
+ }
+.btn-BankingInfo{
+padding: 5px 15px 15px 5px;
+height: 25px;
+margin:5px 35px 5px 5px;
+display:flex;
+width: 70%;
+    }
+    .OtherInfo_box {
+        display:block;
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+.btn-OtherInfo{
+padding: 15px 5px 15px 5px;
+height: 25px;
+margin:5px 35px 5px 5px;
+display:inline-block;
+width: 70%;
+    }
+.OtherInfo_box {
+margin-top: 80px;
+font-size: 10px;
+display: flex;
+height: 50px
+    }
+.DocumentInformation{
+        font-size: 13px;
+    }
+    .btn-OtherDocuInfo{
+        padding: 15px 5px 15px 5px;
+height: 25px;
+margin:5px 35px 5px 5px;
+display:inline-block;
+width: 70%;
+    }
+    .DocumentInformation_text{
+       height: 140px;
+        
+    }
+    .DocumentInformation_text text{
+        display: block;
+    }
+}
+
+
+/*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
+@media only screen and (max-width:320px){
+.btn-proofId,
+.btn-SSN{
+height: 25px;
+margin:15px 15px 5px 5px;
+display:flex;
+width: 70%;
+justify-content: center
+    }
+.btn-INCOME{
+margin:5px 20px 0px 5px;
+width: 70%;
+display: flex;
+padding: 5px 15px 5px 5px;
+    }
+.btn-INCOME text{
+        font-size: 12px;
+        padding: 10px 5px;}
+.btn-INCOME p{
+font-size: 10px;}
+
+.btn-BankingInfo{
+padding: 5px 15px 15px 5px;
+height: 20px;
+margin:5px 15px 5px 5px;
+display:flex;
+width: 70%;
+font-size: 12px;
+    }
+.btn-BankingInfo text{
+font-size: 14px;
+padding: 05px 05px;   
+    }
+.btn-BankingInfo p{
+padding: 05px 05px; 
+    }
+    .OtherInformation{
+   font-size: 14px;
+    }
+    .DocumentInformation text{
+         font-size: 12px;
+        margin-left: 10px
+    }
+}

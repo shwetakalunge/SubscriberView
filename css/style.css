@@ -1,0 +1,334 @@
+html{
+    background: #EEEEEE;
+    
+}
+
+body{
+    background:  #EEEEEE;
+}
+.main_class{
+    width:70%;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #FEFEFE;
+    max-width:100%;
+}
+
+
+ /*<!------------------------------Proof Of Identity-------------------------------------------------------------------------------------->*/
+.div_ProofOfidentity{
+    background: #2DC3E8;
+     width: 90%;
+   margin: auto;
+
+}
+.div_ProofOfidentity text{
+    color: white;
+    margin-left: 20px;
+    
+}
+.div_Paragraph_First{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.div_Paragraph_First p{
+     margin-left: 20px;
+    font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 19px;
+}
+.flex_row1{
+    display:flex;
+}
+.d-arrow1,
+.d-arrow2{
+ float: right;
+margin-right: 10px;
+    margin-top: 5px
+  
+}
+ /* <!------------------------------------Proof of SSN-------------------------------------------------------------------------------------------->*/
+.div_ProofOfSSN{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.div_ProofOfSSN text{
+    color: white;
+    margin-left: 20px;
+    font-family: Segoe UI;
+font-style: normal;
+    }
+.div_Paragraph_Second{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.div_Paragraph_Second p{
+ margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 19px;
+}
+/*---------------------------------------Proof Of Income-------------------------------------------------------------------------------------------------*/
+.div_Proofof_Income{
+    background: #2DC3E8;
+     width: 90%;
+   margin: auto;
+}
+.div_Proofof_Income text{
+    color: white;
+    margin-left: 20px;
+    font-family: Segoe UI;
+    font-style: normal;
+    }
+.div_Paragraph_Third{
+     box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto;
+   margin-bottom: 20px;
+   
+}
+
+.box{
+    display: inline-block;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 8px;
+
+ }
+.p_1{
+    font-family: Segoe UI;
+    font-size: 12px;
+   
+}
+.p_commnets text{
+  margin-left: 20px;
+    font-family: Segoe UI;
+    font-size: 12px;
+}
+
+/*------------------------------------Banking Information---------------------------------------------------------*/
+.BankingInformation{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.BankingInformation text{
+    color: white;
+    margin-left: 20px;
+}
+.div_Paragraph_Forth{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.BankingInfo_box{
+   display: inline-block;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 15px;
+}
+/*--------------------------------------Other Incvome Information--------------------------------------------------------------------------------*/
+.OtherInformation{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.OtherInformation text{
+    color: white;
+    margin-left: 20px;
+}
+.div_Paragraph_Fifth{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.OtherInfo_box{
+   display: flex;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 15px;
+    height: 90px;
+    
+ }
+.p_9{
+    margin-left: 80px;
+}
+/*-------------------------------------------Other Document Info--------------------------------------------------------------------------------------------*/
+.DocumentInformation{
+       background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+
+    
+}
+.DocumentInformation text{
+      color: white;
+    margin-left: 20px; 
+   
+    
+}
+.DocumentInformation_text{
+     box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+  
+    height: 80px;
+    padding: 15px 10px;
+  
+    
+}
+.DocumentInformation_text text{
+    font-family: Segoe UI;
+font-size: 13px;
+line-height: 16px;
+    margin-left: 20px;
+color: #585858;
+  
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+/*.section_button{
+        box-sizing: border-box;
+   
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 5px;
+    height: 50px;
+    margin-top: 0px;
+    
+}*/
+.btn{
+padding: 5px 55px;
+float: right;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.btn-full
+{
+ background: #2AABDB;
+    text-decoration: none;
+  
+    color: white;
+   text-align: center;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+.btn-proofId{
+ background:  #83D782;
+    text-decoration: none;
+    color: #424242;;
+    padding: 05px 5px 05px 5px;
+    margin-top: 50px;
+    text-align: center;
+    height: 40px;
+    float: right;
+    line-height: 15px
+    }
+.btn-proofId text{
+      font-size: 15px;
+    padding: 10px;
+    }
+.btn-proofId p{
+    font-size: 11px; 
+}
+.btn-SSN{
+    background: #F5C84C;
+      text-decoration: none;
+    color: #424242;;
+    padding: 05px 5px 05px 5px;
+    margin-top: 30px;
+    text-align: center;
+    height: 40px;
+    float: right; line-height: 15px
+}
+.btn-SSN text{
+      font-size: 15px;
+    padding: 10px;
+    }
+.btn-SSN p{
+    font-size: 11px; 
+}
+
+.btn-INCOME{
+    line-height: 15px;
+  background: #FF4141;
+      text-decoration: none;
+    color: white;
+   padding: 05px 5px 05px 5px;
+    margin-top: 30px;
+   
+    height: 40px;
+}
+.btn-INCOME text{ text-align: center;
+}
+.btn-INCOME p{
+    text-align: center;
+     font-size: 11px; 
+}
+.btn-BankingInfo{
+   background: #83D782;
+      text-decoration: none;
+    color: #424242;;
+  padding: 05px 5px 05px 5px;
+    margin-top: 25px;
+    text-align: center;
+    height: 40px;
+    float: right; 
+   line-height: 15px
+}
+.btn-BankingInfo p {
+     text-align: center;
+     font-size: 11px; 
+}
+
+.btn-OtherInfo{
+  background: #EEEEEE;
+      text-decoration: none;
+    color: #424242;
+    padding: 05px 5px 05px 5px;
+    margin-top: 35px;
+    text-align: center;
+    height: 40px;
+    float: right; 
+   line-height: 10px
+}
+.btn-OtherInfo text{
+    color: #424242;
+}
+.btn-OtherDocuInfo{
+    background: #EEEEEE;
+    text-decoration: none;
+    padding: 05px 5px 05px 5px;
+    margin-top: 35px;
+    text-align: center;
+    height: 40px;
+    float: right; 
+    line-height: 10px
+}
+.btn-OtherDocuInfo text,
+.btn-OtherDocuInfo p{
+    color: #424242;
+}

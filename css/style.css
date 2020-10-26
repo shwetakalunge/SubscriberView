@@ -13,7 +13,9 @@ body{
     background-color: #FEFEFE;
     max-width:100%;
 }
-
+.row_List ul{
+   width: 5%;
+   }
 
  /*<!------------------------------Proof Of Identity-------------------------------------------------------------------------------------->*/
 .div_ProofOfidentity{
@@ -208,8 +210,15 @@ font-size: 13px;
 line-height: 16px;
     margin-left: 20px;
 color: #585858;
-  
+  }
+.DocumentInformation_text ::after {
+  content: '\002A';
+    color: red;
+    font-size: 15px;
+ font-weight: bold;
 }
+    
+
 /*------------------------------------------------------------------------------------------------------------------------------------------*/
 /*.section_button{
         box-sizing: border-box;
@@ -249,10 +258,10 @@ float: right;
     }
 .btn-proofId text{
       font-size: 15px;
-    padding: 10px;
+    padding: 10px;color: #424242;
     }
 .btn-proofId p{
-    font-size: 11px; 
+    font-size: 11px; color: #424242;
 }
 .btn-SSN{
     background: #F5C84C;
@@ -266,10 +275,10 @@ float: right;
 }
 .btn-SSN text{
       font-size: 15px;
-    padding: 10px;
+    padding: 10px;color: #424242;
     }
 .btn-SSN p{
-    font-size: 11px; 
+    font-size: 11px; color: #424242;
 }
 
 .btn-INCOME{
@@ -299,9 +308,12 @@ float: right;
     float: right; 
    line-height: 15px
 }
+.btn-BankingInfo text{
+    color: #424242;
+}
 .btn-BankingInfo p {
      text-align: center;
-     font-size: 11px; 
+     font-size: 11px; color: #424242;
 }
 
 .btn-OtherInfo{
